@@ -1,0 +1,3 @@
+# Article XI, Section 2. Management And Disposition Of Natural Resources
+The legislature shall vest in one or more executive boards or commissions powers for the management of natural resources owned or controlled by the State, and such powers of disposition thereof as may be provided by law; but land set aside for public use, other than for a reserve for conservation purposes, need not be placed under the jurisdiction of such a board or commission.
+The mandatory provisions of this section shall not apply to the natural resources owned by or under the control of a political subdivision or a department or agency thereof.

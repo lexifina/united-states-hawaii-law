@@ -1,0 +1,2 @@
+# Article II, Section 4. Registration; Voting
+The legislature shall provide for the registration of voters and for absentee voting and shall prescribe the method of voting at all elections. Secrecy of voting shall be preserved; provided that no person shall be required to declare a party preference or nonpartisanship as a condition of voting in any primary or special primary election. Secrecy of voting and choice of political party affiliation or nonpartisanship shall be preserved.

@@ -1,0 +1,3 @@
+# Article XI, Section 7. Water Resources
+The State has an obligation to protect, control and regulate the use of Hawaii's water resources for the benefit of its people.
+The legislature shall provide for a water resources agency which, as provided by law, shall set overall water conservation, quality and use policies; define beneficial and reasonable uses; protect ground and surface water resources, watersheds and natural stream environments; establish criteria for water use priorities while assuring appurtenant rights and existing correlative and riparian uses and establish procedures for regulating all uses of Hawaii's water resources.

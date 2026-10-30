@@ -1,0 +1,2 @@
+# Article IX, Section 6. Management Of State Population Growth
+The State and its political subdivisions, as provided by general law, shall plan and manage the growth of the population to protect and preserve the public health and welfare; except that each political subdivision, as provided by general law, may plan and manage the growth of its population in a more restrictive manner than the State.

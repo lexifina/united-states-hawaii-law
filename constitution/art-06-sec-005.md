@@ -1,0 +1,3 @@
+# Article VI, Section 5. Retirement; Removal; Discipline
+The supreme court shall have the power to reprimand, discipline, suspend with or without salary, retire or remove from office any justice or judge for misconduct or disability, as provided by rules adopted by the supreme court.
+The supreme court shall create a commission on judicial discipline which shall have authority to investigate and conduct hearings concerning allegations of misconduct or disability and to make recommendations to the supreme court concerning reprimand, discipline, suspension, retirement or removal of any justice or judge.

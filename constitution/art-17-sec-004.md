@@ -1,0 +1,3 @@
+# Article XVII, Section 4. Veto
+No proposal for amendment of the constitution adopted in either manner provided by this article shall be subject to veto by the governor.
+Section 5. If a revision or amendment proposed by a constitutional convention is in conflict with a revision or amendment proposed by the legislature and both are submitted to the electorate at the same election and both are approved, then the revision or amendment proposed by the convention shall prevail. If conflicting revisions or amendments are proposed by the same body and are submitted to the electorate at the same election and both are approved, then the revision or amendment receiving the highest number of votes shall prevail.

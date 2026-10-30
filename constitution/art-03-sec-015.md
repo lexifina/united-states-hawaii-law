@@ -1,0 +1,4 @@
+# Article III, Section 15. Passage Of Bills
+No bill shall become law unless it shall pass three readings in each house on separate days. No bill shall pass third or final reading in either house unless printed copies of the bill in the form to be passed shall have been made available to the members of that house for at least forty-eight hours.
+Every bill when passed by the house in which it originated, or in which amendments thereto shall have originated, shall immediately be certified by the presiding officer and clerk and sent to the other house for consideration.
+Any bill pending at the final adjournment of a regular session in an odd-numbered year shall carry over with the same status to the next regular session. Before the carried-over bill is enacted, it shall pass at least one reading in the house in which the bill originated.

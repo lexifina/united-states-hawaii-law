@@ -1,0 +1,2 @@
+# Article VIII, Section 3. Taxation And Finance
+The taxing power shall be reserved to the State, except so much thereof as may be delegated by the legislature to the political subdivisions, and except that all functions, powers and duties relating to the taxation of real property shall be exercised exclusively by the counties, with the exception of the county of Kalawao. The legislature shall have the power to apportion state revenues among the several political subdivisions.

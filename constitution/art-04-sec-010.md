@@ -1,0 +1,3 @@
+# Article IV, Section 10. Mandamus And Judicial Review
+Original jurisdiction is vested in the supreme court of the State to be exercised on the petition of any registered voter whereby it may compel, by mandamus or otherwise, the appropriate person or persons to perform their duty or to correct any error made in a reapportionment plan, or it may take such other action to effectuate the purposes of this section as it may deem appropriate. Any such petition shall be filed within forty-five days of the date specified for any duty or within forty-five days after the filing of a reapportionment plan.
+Revision Note: Renumbered from section 9 under the authority of Resolution No. 29 of the 1978 Constitutional Convention.

@@ -1,0 +1,3 @@
+# Article XI, Section 3. Agricultural Lands
+The State shall conserve and protect agricultural lands, promote diversified agriculture, increase agricultural self-sufficiency and assure the availability of agriculturally suitable lands. The legislature shall provide standards and criteria to accomplish the foregoing.
+Lands identified by the State as important agricultural lands needed to fulfill the purposes above shall not be reclassified by the State or rezoned by its political subdivisions without meeting the standards and criteria established by the legislature and approved by a two-thirds vote of the body responsible for the reclassification or rezoning action.

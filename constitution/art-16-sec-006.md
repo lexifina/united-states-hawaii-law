@@ -1,0 +1,2 @@
+# Article XVI, Section 6. Federal Lands
+The United States shall be vested with or retain title to or an interest in or shall hold the property in the Territory of Hawaii set aside for the use of the United States and remaining so set aside immediately prior to the admission of this State, in all respects as and to the extent set forth in the act or resolution providing for the admission of this State to the Union.

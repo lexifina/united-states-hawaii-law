@@ -1,0 +1,2 @@
+# Article VII, Section 4. Appropriations For Private Purposes Prohibited
+No tax shall be levied or appropriation of public money or property made, nor shall the public credit be used, directly or indirectly, except for a public purpose. No grant shall be made in violation of Section 4 of Article I of this constitution. No grant of public money or property shall be made except pursuant to standards provided by law.

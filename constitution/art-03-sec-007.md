@@ -1,0 +1,2 @@
+# Article III, Section 7. Privileges Of Members
+No member of the legislature shall be held to answer before any other tribunal for any statement made or action taken in the exercise of the member's legislative functions; and members of the legislature shall, in all cases except felony or breach of the peace, be privileged from arrest during their attendance at the sessions of their respective houses, and in going to and returning from the same.

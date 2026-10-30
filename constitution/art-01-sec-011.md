@@ -1,0 +1,2 @@
+# Article I, Section 11. Grand Jury Counsel
+Whenever a grand jury is impaneled, there shall be an independent counsel appointed as provided by law to advise the members of the grand jury regarding matters brought before it. Independent counsel shall be selected from among those persons licensed to practice law by the supreme court of the State and shall not be a public employee. The term and compensation for independent counsel shall be as provided by law.

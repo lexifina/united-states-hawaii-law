@@ -1,0 +1,2 @@
+# Article III, Section 17. Procedures Upon Veto
+Upon the receipt of a veto message from the governor, each house shall enter the same at large upon its journal and proceed to reconsider the vetoed bill, or the item or items vetoed, and again vote upon such bill, or such item or items, by ayes and noes, which shall be entered upon its journal. If after such reconsideration such bill, or such item or items, shall be approved by a two-thirds vote of all members to which each house is entitled, the same shall become law.

@@ -1,0 +1,2 @@
+# Article XVI, Section 7. Compliance With Trust
+Any trust provisions which the Congress shall impose, upon the admission of this State, in respect of the lands patented to the State by the United States or the proceeds and income therefrom, shall be complied with by appropriate legislation. Such legislation shall not diminish or limit the benefits of native Hawaiians under Section 4 of Article XII.

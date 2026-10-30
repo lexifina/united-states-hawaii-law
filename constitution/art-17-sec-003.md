@@ -1,0 +1,5 @@
+# Article XVII, Section 3. Amendments Proposed By Legislature
+The legislature may propose amendments to the constitution by adopting the same, in the manner required for legislation, by a two-thirds vote of each house on final reading at any session, after either or both houses shall have given the governor at least ten days' written notice of the final form of the proposed amendment, or, with or without such notice, by a majority vote of each house on final reading at each of two successive sessions.
+Upon such adoption, the proposed amendments shall be entered upon the journals, with the ayes and noes, and published once in each of four successive weeks in at least one newspaper of general circulation in each senatorial district wherein such a newspaper is published, within the two months' period immediately preceding the next general election.
+At such general election the proposed amendments shall be submitted to the electorate for approval or rejection upon a separate ballot.
+The conditions of and requirements for ratification of such proposed amendments shall be the same as provided in section 2 of this article for ratification at a general election.

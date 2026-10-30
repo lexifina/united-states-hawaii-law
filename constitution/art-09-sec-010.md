@@ -1,0 +1,3 @@
+# Article IX, Section 10. Public Safety
+The law of the splintered paddle, mamala-hoe kanawai, decreed by Kamehameha I-Let every elderly person, woman and child lie by the roadside in safety-shall be a unique and living symbol of the State's concern for public safety.
+The State shall have the power to provide for the safety of the people from crimes against persons and property.

@@ -1,0 +1,2 @@
+# Article VI, Section 1. Judicial Power
+The judicial power of the State shall be vested in one supreme court, one intermediate appellate court, circuit courts, district courts and in such other courts as the legislature may from time to time establish. The several courts shall have original and appellate jurisdiction as provided by law and shall establish time limits for disposition of cases in accordance with their rules.

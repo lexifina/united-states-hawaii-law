@@ -1,0 +1,2 @@
+# Article XVI, Section 11. Judicial Rights
+All those provisions of the act or resolution admitting this State to the Union, or providing for such admission, which reserve to the United States judicial rights or powers are consented to fully by the State and its people; and those provisions of such act or resolution which preserve judicial rights and powers for the State are hereby accepted and adopted, and such rights and powers are hereby assumed, to be exercised and discharged pursuant to this constitution and the laws of the State.

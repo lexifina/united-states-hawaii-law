@@ -1,0 +1,2 @@
+# Article XI, Section 9. Environmental Rights
+Each person has the right to a clean and healthful environment, as defined by laws relating to environmental quality, including control of pollution and conservation, protection and enhancement of natural resources. Any person may enforce this right against any party, public or private, through appropriate legal proceedings, subject to reasonable limitations and regulation as provided by law.

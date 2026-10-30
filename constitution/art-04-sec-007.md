@@ -1,0 +1,3 @@
+# Article IV, Section 7. Election Of Senators After Reapportionment
+Regardless of whether or not a senator is serving a term that would have extended past the general election at which an apportionment plan becomes effective, the term of office of all senators shall end at that general election. The staggered terms of senators in each district shall be recomputed as established by the next section in this article, and the number of senators in a senatorial district under the reapportionment plan of the commission.
+Revision Note: Renumbered from section 6 under the authority of Resolution No. 29 of the 1978 Constitutional Convention.
