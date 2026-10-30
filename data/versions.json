@@ -1,0 +1,19 @@
+{
+ "country": "US-HI",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Haw. Const.",
+   "title": "Constitution of the State of Hawaii",
+   "url": "https://lrb.hawaii.gov/constitution/",
+   "versions": [
+    {
+     "from": "2026-10-30",
+     "units": 168,
+     "source_url": "https://lrb.hawaii.gov/constitution/",
+     "sha256": "4eacef3f46d93c99393b8377eed11bfad2242fcabbb785a1003c92253ae4465f"
+    }
+   ]
+  }
+ ]
+}

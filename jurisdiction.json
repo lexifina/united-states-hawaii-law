@@ -1,0 +1,8 @@
+{
+  "path": "united-states/hawaii",
+  "code": "US-HI",
+  "name": "United States (Hawaii)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-hawaii-law",
+  "build": "built"
+}
