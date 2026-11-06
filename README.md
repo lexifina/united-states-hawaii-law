@@ -1,5 +1,7 @@
 # United States (Hawaii): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Hawaii, United States, which global-law reads at `united-states/hawaii/acts/`.
+
 A first build of Hawaii law as git: one file per provision, with the text published by the Hawaii Legislative Reference Bureau ([lrb.hawaii.gov](https://lrb.hawaii.gov/constitution/)). It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `united-states/hawaii/`. Language: English.
 
 **What is in it now**
